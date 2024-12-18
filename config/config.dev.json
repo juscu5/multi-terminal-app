@@ -1,0 +1,11 @@
+{
+  "privateKey": "lstventures123",
+  "db": {
+    "dialect": "mysql",
+    "database": "pos",
+    "port": "3306",
+    "host": "localhost",
+    "username": "thisdb",
+    "password": "123"
+  }
+}
