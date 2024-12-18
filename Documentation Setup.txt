@@ -1,0 +1,3 @@
+1. require the "xxxfile" into modeldefiners in database/model definers
+2. add routes the exported route in index.js located in routes/index.js
+3. if you want to add/edit/delete use it in services then export also on routes. 
